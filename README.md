@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shubhi Verma! 🌌✰</h1>
+<h1 align="center">Hi, I'm Shubhi Verma! 🌌</h1>
 <h3 align="center">I like to code experiences as a passionate full-stack developer.</h3>
 
 - 🔭 I’m currently working on **Friendship Quest: A Gamified Memory Experience**
