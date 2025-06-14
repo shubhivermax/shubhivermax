@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shubhi Verma! 🌌</h1>
 <h3 align="center">I like to code experiences as a passionate full-stack developer.</h3>
 
-- 🔭 I’m currently working on **Friendship Quest: A Gamified Memory Experience**
+- 🔭 I’m currently working on **AskHonors AI-powered University Website**
 
 - 🌱 I’m currently learning **React with Typescript, Node.js, and PostGreSQL**
 
@@ -11,7 +11,7 @@
 
 - 📝 I sometimes post dance videos on [https://www.youtube.com/@shubhiv2889/videos](https://www.youtube.com/@shubhiv2889/videos)
 
-- 💬 Ask me about **react,javascript,ui design**
+- 💬 Ask me about **react,typescript,ui design**
 
 - 📫 How to reach me **shubbyv@gmail.com**
 
