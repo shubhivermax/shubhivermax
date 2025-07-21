@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **GitMatchify: "Tinder" for developers to collaborate on projects**
 
-- 🌱 I’m currently learning **React with Typescript, Node.js, and PostGreSQL**
+- 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
 
 - 👯 I’m looking to collaborate on **GitMatchify**
 
@@ -11,7 +11,7 @@
 
 - 📝 I sometimes post dance videos on [https://www.youtube.com/@shubhiv2889/videos](https://www.youtube.com/@shubhiv2889/videos)
 
-- 💬 Ask me about **react,typescript,ui design**
+- 💬 Ask me about **React,Typescript,UI,CodePath**
 
 - 📫 How to reach me **shubbyv@gmail.com**
 
