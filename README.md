@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shubhi Verma! 🌌</h1>
-<h3 align="center">I like to code experiences as a passionate full-stack developer.</h3>
+<h3 align="center">I like to create full-stack user-focused experiences.</h3>
 
 - 🔭 I’m currently working on **GitMatchify: "Tinder" for developers to collaborate on projects**
 
