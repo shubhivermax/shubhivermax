@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Shubhi Verma! 🌌</h1>
 <h3 align="center">I like to code experiences as a passionate full-stack developer.</h3>
 
-- 🔭 I’m currently working on **AskHonors AI-powered University Website**
+- 🔭 I’m currently working on **GitMatchify: "Tinder" for developers to collaborate on projects**
 
 - 🌱 I’m currently learning **React with Typescript, Node.js, and PostGreSQL**
 
-- 👯 I’m looking to collaborate on **Tinder for CS Project Partners**
+- 👯 I’m looking to collaborate on **GitMatchify**
 
 - 👨‍💻 All of my projects are available at [https://shubhivermax.github.io/portfolio/](https://shubhivermax.github.io/portfolio/)
 
