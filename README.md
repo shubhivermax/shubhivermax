@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **GitMatchify**
 
-- 👨‍💻 All of my projects are available at [https://shubhivermax.github.io/portfolio/](https://shubhivermax.github.io/portfolio/)
-
 - 📝 I sometimes post dance videos on [https://www.youtube.com/@shubhiv2889/videos](https://www.youtube.com/@shubhiv2889/videos)
 
 - 💬 Ask me about **React,Typescript,UI,CodePath**
